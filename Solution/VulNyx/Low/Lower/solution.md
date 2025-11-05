@@ -559,11 +559,7 @@
     ```
 
 4. **Explanation:** With the `lancer` user now a member of the `sudo` group, the command `sudo su` can be executed to open a new shell as the `root` user.
-5. **Result:**
-
-    ```bash
-    ```
-
+5. **Result:** The command has no output.
 6. **Analysis:** Privileges have been successfully escalated to the `root` user, as indicated by the change in the shell prompt.
 
 ### Phase 007: Capture the Root Flag
