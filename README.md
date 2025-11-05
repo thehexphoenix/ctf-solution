@@ -26,13 +26,13 @@ If you prefer a more direct chat, I'm always open to feedback on Discord.
 Feel free to:
 
 - **Send me a message** on my Discord account: [@TheHexPhonix][1]
-- **Join the server** dedicated to this community: DM me for the link
+- **Join the server** dedicated to this community: [TheHexPhonix Server][2]
 
 ## 🏳️ Capture the Flag Challenges
 
 ## ⚠️ License
 
-All content within this repository is published under the [Creative Commons Attribution 4.0 (CC-BY-4.0)][2] License.
+All content within this repository is published under the [Creative Commons Attribution 4.0 (CC-BY-4.0)][3] License.
 The sole purpose of this material is purely educational, intended to help individuals and the information technology community enhance their security knowledge and capabilities.
 Never use any techniques or information found here or somewhere else to conduct unauthorized or malicious activities.
 
@@ -48,4 +48,5 @@ Never use any techniques or information found here or somewhere else to conduct 
 ⚠️ **IMPORTANT DISCLAIMER:** I strongly discourage and disclaim responsibility for the use of this material in any unauthorized, illegal, or malicious activities.
 
 [1]: https://discordapp.com/users/1433534102983934063
-[2]: https://creativecommons.org/licenses/by/4.0/
+[2]: https://discord.gg/Ayqt6JhtVG
+[3]: https://creativecommons.org/licenses/by/4.0/
