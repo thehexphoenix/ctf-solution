@@ -30,9 +30,12 @@ Feel free to:
 
 ## 🏳️ Capture the Flag Challenges
 
+1. [VulNyx][3]
+   1. [Lower][4]
+
 ## ⚠️ License
 
-All content within this repository is published under the [Creative Commons Attribution 4.0 (CC-BY-4.0)][3] License.
+All content within this repository is published under the [Creative Commons Attribution 4.0 (CC-BY-4.0)][5] License.
 The sole purpose of this material is purely educational, intended to help individuals and the information technology community enhance their security knowledge and capabilities.
 Never use any techniques or information found here or somewhere else to conduct unauthorized or malicious activities.
 
@@ -49,4 +52,6 @@ Never use any techniques or information found here or somewhere else to conduct 
 
 [1]: https://discordapp.com/users/1433534102983934063
 [2]: https://discord.gg/Ayqt6JhtVG
-[3]: https://creativecommons.org/licenses/by/4.0/
+[3]: https://vulnyx.com/
+[4]: Solution/VulNyx/Low/Lower/solution.md
+[5]: https://creativecommons.org/licenses/by/4.0/
